@@ -1,6 +1,3 @@
-package com.javarush.sandbox.tasks;
-
-
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;

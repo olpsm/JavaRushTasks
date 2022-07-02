@@ -1,5 +1,3 @@
-package com.javarush.sandbox.tasks;
-
 public class task0306 {
 /*
 Расставить правильно (по другому) скобки, чтобы на экран вывелось число 382

@@ -1,7 +1,3 @@
-package com.javarush.sandbox.tasks;
-
-
-
 public class task0316 {
 /*
 Вывести на экран следующий текст - две строки:
